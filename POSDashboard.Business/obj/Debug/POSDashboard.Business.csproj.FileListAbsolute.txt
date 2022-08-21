@@ -1,0 +1,8 @@
+E:\Personal\Personal Work\POSDashboard\POSDashboard.Business\bin\Debug\POSDashboard.Business.dll
+E:\Personal\Personal Work\POSDashboard\POSDashboard.Business\bin\Debug\POSDashboard.Business.pdb
+E:\Personal\Personal Work\POSDashboard\POSDashboard.Business\obj\Debug\POSDashboard.Business.csprojAssemblyReference.cache
+E:\Personal\Personal Work\POSDashboard\POSDashboard.Business\obj\Debug\POSDashboard.Business.csproj.CoreCompileInputs.cache
+E:\Personal\Personal Work\POSDashboard\POSDashboard.Business\obj\Debug\POSDashboard.Business.dll
+E:\Personal\Personal Work\POSDashboard\POSDashboard.Business\obj\Debug\POSDashboard.Business.pdb
+E:\Personal\Personal Work\POSDashboard\POSDashboard.Business\bin\Debug\MyGeneration.dOOdads.dll
+E:\Personal\Personal Work\POSDashboard\POSDashboard.Business\obj\Debug\POSDashboard.Business.csproj.CopyComplete

@@ -1,0 +1,11 @@
+﻿@using POSDashboard.UI.Controllers.Components
+@{
+    if (SessionComponent.GetLanguage() == (int)POSDashboard.Business.BE.Definitions.Language.English)
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+    else if (SessionComponent.GetLanguage() == (int)POSDashboard.Business.BE.Definitions.Language.Arabic)
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+}
